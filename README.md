@@ -1,2 +1,3 @@
 # snake
 it's a basic snake
+use left,up,down,right arrows for move
