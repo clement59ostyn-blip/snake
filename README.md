@@ -1,2 +1,2 @@
 # snake
-it's a snake 3
+it's a basic snake
