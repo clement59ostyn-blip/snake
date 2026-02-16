@@ -1,5 +1,5 @@
 # snake
-it's a basic snake who moved in th window
+it's a basic snake who moved in the window
 
 
 
